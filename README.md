@@ -1,4 +1,5 @@
 [![Build Status](https://app.travis-ci.com/borrabeam/demo-pyci.svg?branch=main)](https://app.travis-ci.com/borrabeam/demo-pyci)
+[![codecov](https://codecov.io/gh/borrabeam/demo-pyci/branch/main/graph/badge.svg?token=6URPG7HU6R)](https://codecov.io/gh/borrabeam/demo-pyci)
 
 Continuous Integration Demo
 ============================
