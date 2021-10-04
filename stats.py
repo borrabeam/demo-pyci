@@ -18,6 +18,7 @@ def variance(data):
     Raises:
         ValueError if the data parameter is empty.
 
+
     >>> variance([1])
     0.0
     >>> variance([1, 1, 1, 1])
@@ -37,4 +38,5 @@ def variance(data):
 def stdev(data):
     """The population standard deviation of a list of data values."""
     return sqrt(variance(data))
+
 
